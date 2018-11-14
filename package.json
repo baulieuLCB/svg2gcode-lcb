@@ -1,9 +1,9 @@
 {
-  "name": "svg2gcode",
+  "name": "svg2gcode-lcb",
   "version": "0.0.4",
   "description": "Convert SVG to Gcode",
   "bin": {
-    "svg2gcode": "./bin/svg2gcode"
+    "svg2gcode-lcb": "./bin/svg2gcode-lcb"
   },
   "dependencies": {
     "canvg": "0.0.6",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "em/svg2gcode"
+    "url": "baulieuLCB/svg2gcode-lcb"
   },
   "keywords": [
     "svg",
